@@ -1,0 +1,7 @@
+A program that analyzes plain text file(s). It displays the number of 
+characters in the file, the number of unique characters, the number of 
+lines, and the number of words (any string of characters separated by 
+white space). Finally, it displays every character used, with the 
+number of times each character is used, in ascending order. If a file
+cannot be found, the user is alerted, and the program moves to the 
+next file to evaluate.
